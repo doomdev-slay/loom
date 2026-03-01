@@ -1,2 +1,7 @@
 # loom
-a simple port of doom for modern computers
+
+
+
+to compile loom compile from source:
+        make loom
+
