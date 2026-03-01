@@ -1,8 +1,3 @@
 # loom
 
-
-
-to compile loom compile from source:
-       
-        make loom
-
+currently only the prebuilt binary for linux is available
